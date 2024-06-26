@@ -102,6 +102,13 @@ h3{
    color: rgb(76, 74, 74);
    font-weight: 600;
 }
+.text{
+   padding: 2%;
+   line-height: 1.5;
+   border: 2px solid gray;
+   border-radius: 20px;
+   margin: 2%;
+}
 /* =========== List Lesson ============== */
  .liLesson a{
     font-size: 20px;
